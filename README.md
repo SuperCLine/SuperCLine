@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 - [Skill Editor](https://github.com/SuperCLine-ActionEditor)
 - [ActionEngine](https://github.com/SuperCLine-ActionEngine)
 
-### 📫 How to reach me 🔎
+### 📫 How to reach me
 <br>
 
 - ✍️ [Blog](https://supercline.com/)
