@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - ✍️ [Blog](https://supercline.com/)
-- 😘 Wechat - SuperCLine
+- 😘 Wechat `SuperCLine`
 - 💌 xfanhsl@gmail.com
